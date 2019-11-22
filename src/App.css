@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Cantarell', Lucida Grande, sans-serif;
-  font-size: 100%;
+  font-size: 80%;
   line-height: 1.5;
 }
 h3 {
@@ -32,7 +32,7 @@ input[type=submit] {
   font-size: 1em;
 }
 #todo {
-  background-color: whitesmoke;
+  background-color: aliceblue;
   border-radius: 3px;
   width: 850px;
   margin: 30px auto;
@@ -46,7 +46,8 @@ input[type=submit] {
   vertical-align: top;
 }
 .todo-list + .todo-list {
-  border-left: 2px solid darkgray;
+  border-left: 1px solid darkgray;
+
 }
 
 
